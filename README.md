@@ -1,6 +1,6 @@
-# 🛡️ Nexora
+# 🛡️ Wifi_Vault
 
-Nexora is a powerful, local-network utility application built with Flutter. It provides a comprehensive suite of tools for managing, analyzing, and communicating over your Local Area Network (LAN) securely and efficiently without requiring an active internet connection.
+Wifi Vault is a powerful, local-network utility application built with Flutter. It provides a comprehensive suite of tools for managing, analyzing, and communicating over your Local Area Network (LAN) securely and efficiently without requiring an active internet connection.
 
 ## ✨ Features
 
